@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 const kAdminEmail = 'admin123@gmail.com';
-const String appTitle = 'ezyBills';
-const String shopSubTitle = 'ezyBills SAAS';
-const String appNameTitle = 'ezyBills Saas Admin';
+const String appTitle = 'BestBills';
+const String shopSubTitle = 'BestBills';
+const String appNameTitle = 'BestBills';
 
 // const kMainColor = Color(0xFF3F8CFF);
 const kMainColor = Color(0xFF5BB26E);

@@ -81,6 +81,7 @@ class SideBarWidget extends StatelessWidget {
               decoration: const BoxDecoration(color: kDarkGreyColor),
               child: ListTile(
                 leading: const CircleAvatar(
+                  backgroundColor: Colors.white,
                   radius: 16.0,
                   backgroundImage: AssetImage('images/salespro.jpg'),
                 ),
